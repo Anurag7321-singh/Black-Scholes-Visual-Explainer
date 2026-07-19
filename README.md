@@ -80,7 +80,7 @@ Where $N(x)$ is the cumulative distribution function of the standard normal dist
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - **Monte Carlo Simulation Comparison**  
   Implement a Monte Carlo-based option pricing model to compare results with the analytical Black-Scholes formula and analyze pricing differences under stochastic simulations.
